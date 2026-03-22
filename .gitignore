@@ -1,0 +1,27 @@
+# Unreal Engine — build & local artifacts
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+*.VC.db
+*.opensdf
+*.sdf
+*.opendb
+*.user
+*.userosscache
+*.sln.docstates
+
+# Python (ChloeAI)
+**/__pycache__/
+**/*.py[cod]
+ChloeAI/.venv/
+ChloeAI/venv/
+ChloeAI/Backend/.env
+ChloeAI/Audio/*.wav
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini

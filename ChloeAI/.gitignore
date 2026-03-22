@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.wav
+Audio/*.wav
+!.gitkeep
+.DS_Store
+Thumbs.db
